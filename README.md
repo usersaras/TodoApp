@@ -10,6 +10,7 @@
 </ul>
 
 <p>Application's home screen</p>
+
 ![Home Screen](Screenshots/1-HomeScreen.png)
 
 <p>Application's add task screen</p>
